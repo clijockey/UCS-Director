@@ -26,7 +26,7 @@ var fqdn = "api.ciscospark.com";
 var message = input.message;
 var file = input.file;
 var roomId = input.roomId;
-var proxy_host = "proxy-wsa.esl.cisco.com";
+var proxy_host = "someproxy.com";
 var proxy_port = "80";
 
 // Build up the URI
