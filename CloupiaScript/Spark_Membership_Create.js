@@ -40,7 +40,7 @@ var primaryTaskData = "{\"roomId\" : \""+roomId+"\",\
 logger.addInfo("Request to https://"+fqdn+":"+primaryTaskPort+primaryTaskUri);
 logger.addInfo("Sending payload: "+primaryTaskData);
 
-var proxy_host = "proxy-wsa.esl.cisco.com";
+var proxy_host = "someproxy.com";
 var proxy_port = "80";
 var taskClient = new HttpClient();
 if (proxy_host != null) {
