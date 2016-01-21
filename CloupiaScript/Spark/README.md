@@ -1,4 +1,5 @@
 
 
 
-![](<iframe width="420" height="315" src="https://www.youtube.com/embed/YD_Z9nGRCW8" frameborder="0" allowfullscreen></iframe>)
+
+[![Video of Spark Integration](http://img.youtube.com/vi/YD_Z9nGRCW8/0.jpg)](http://www.youtube.com/watch?v=YD_Z9nGRCW8)
